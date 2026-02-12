@@ -1,0 +1,20 @@
+{
+    "pub_key": "BLS_VER_KEY~HV4vKVbdAIsPoAhN7oKRIa-NdJ-FMTQQJ4Ak5RYP_AHpX3wRmSOr0Tan5EywrMB7Zz2_4e8AJDS5BSS3aMAGJLLUCpRsaYm44saZyYgi8xDDBKuzzTfwGvinQgFNctMjY8F8z1jWS5Kjy5maFtrLG9Zlaj23NluyxHPNGEmGzwz-",
+    "name": "KudasaiJP/Omakase",
+    "description": "KudasaiJP/Omakase is a professional staking and validation service. We also contribute to innovative projects via marketing and development support.",
+    "company_name": "Omakase Inc.",
+    "company_website": "https://0xmakase.co.jp/",
+    "client_version": "v1.0.0",
+    "icon": {
+        "14x14": {
+            "@1x": "https://example.com/icon-14.png",
+            "@2x": "...",
+            "@3x": "..."
+        },
+        "24x24": {
+            "@1x": "https://example.com/icon-24.png",
+            "@2x": "...",
+            "@3x": "..."
+        }
+    }
+}
