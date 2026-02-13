@@ -7,14 +7,14 @@
     "client_version": "v1.0.0",
     "icon": {
         "14x14": {
-            "@1x": "https://github.com/0xmakase/espresso-metadata/blob/main/img/icon-14.png",
-            "@2x": "https://github.com/0xmakase/espresso-metadata/blob/main/img/icon-14@2x.png",
-            "@3x": "https://github.com/0xmakase/espresso-metadata/blob/main/img/icon-14@3x.png"
+            "@1x": "https://raw.githubusercontent.com/0xmakase/espresso-metadata/refs/heads/main/img/icon-14.png",
+            "@2x": "https://raw.githubusercontent.com/0xmakase/espresso-metadata/refs/heads/main/img/icon-14@2x.png",
+            "@3x": "https://raw.githubusercontent.com/0xmakase/espresso-metadata/refs/heads/main/img/icon-14@3x.png"
         },
         "24x24": {
-            "@1x": "https://github.com/0xmakase/espresso-metadata/blob/main/img/icon-24.png",
-            "@2x": "https://github.com/0xmakase/espresso-metadata/blob/main/img/icon-24@2x.png",
-            "@3x": "https://github.com/0xmakase/espresso-metadata/blob/main/img/icon-24@3x.png"
+            "@1x": "https://raw.githubusercontent.com/0xmakase/espresso-metadata/refs/heads/main/img/icon-24.png",
+            "@2x": "https://raw.githubusercontent.com/0xmakase/espresso-metadata/refs/heads/main/img/icon-24@2x.png",
+            "@3x": "https://raw.githubusercontent.com/0xmakase/espresso-metadata/refs/heads/main/img/icon-24@3x.png"
         }
     }
 }
